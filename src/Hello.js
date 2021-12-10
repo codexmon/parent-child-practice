@@ -4,7 +4,7 @@ import Response from './Response'
 const Hello = () => {
     return (
         <div>
-            <p>Hi! How are you?</p>
+            <p>Person 1: Hi! How are you?</p>
             <Response />
         </div>
     )

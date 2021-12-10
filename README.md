@@ -1,3 +1,7 @@
+# Instructions for this Exercise:
+
+Please look at the JS files in the src folder to determine this app's parent-child relationships.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
