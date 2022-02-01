@@ -1,6 +1,6 @@
 # Instructions for this Exercise:
 
-Please look at the JS files in the src folder to determine this app's parent-child relationships.
+Please look at the JS files in the src folder to determine this app's parent-child relationships between COMPONENTS.
 
 Feel free to use this parent-child component diagram to visualize the relationship(s): https://docs.google.com/presentation/d/1kg5Fr1DicOVDxzhUj_NXXI9r1ReooWou2VYv5WclBl0/edit?usp=sharing
 
